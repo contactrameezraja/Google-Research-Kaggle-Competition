@@ -2,7 +2,7 @@
 
 Google Research - Identify Contrails to Reduce Global Warming
 Train ML models to identify contrails in satellite images and help prevent their formation
-Last Updated: 3 months ago
+
 About this Competition
 In this competition you will be using geostationary satellite images to identify aviation contrails. The original satellite images were obtained from the GOES-16 Advanced Baseline Imager (ABI), which is publicly available on Google Cloud Storage. The original full-disk images were reprojected using bilinear resampling to generate a local scene image. Because contrails are easier to identify with temporal context, a sequence of images at 10-minute intervals are provided. Each example (record_id) contains exactly one labeled frame.
 
